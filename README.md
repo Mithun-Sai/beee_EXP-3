@@ -52,6 +52,13 @@ switch2.
 |4|OFF|OFF|ON|
 
 
+The Components Table:
+|Components|Proteus|Specification|
+|----|----|----|
+|Ac Supply|Vsine|Ampliude 230V|
+|Two way switch|SPDT|Frequency=50Hz|
+|Lamp|Animated|230V|
+
 
 ## Cross connection:
 
